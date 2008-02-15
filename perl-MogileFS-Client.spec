@@ -14,7 +14,7 @@ Release:	1
 # same as perl 
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/MogileFS/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-authors/id/B/BR/BRADFITZ/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	2d7a6853100566496c408c752408442d
 URL:		http://search.cpan.org/dist/MogileFS-Client/
 BuildRequires:	perl-devel >= 1:5.8.0
